@@ -1,0 +1,8 @@
+main: org.koalakode.reeve.Updater.Main
+name: Updater
+version: 0.1
+author: Xwy
+website: http://koalakode.org
+commands:
+  update:
+  upd:
